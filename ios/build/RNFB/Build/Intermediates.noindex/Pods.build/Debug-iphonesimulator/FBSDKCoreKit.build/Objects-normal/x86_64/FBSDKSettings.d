@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.m \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Target\ Support\ Files/FBSDKCoreKit/FBSDKCoreKit-prefix.pch \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKSettings+Internal.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCache.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCaching.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenExpirer.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKAppEvents+Internal.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/FBSDKAppEvents.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKAppEventsUtility.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLink.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkTarget.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkNavigation.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkResolving.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkResolver.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkReturnToRefererController.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkReturnToRefererView.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkUtility.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKURL.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKWebViewAppLinkResolver.h

@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.m \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Target\ Support\ Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKDeviceLoginManagerResult+Internal.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLink.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkTarget.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkNavigation.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolving.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererController.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererView.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKURL.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKWebViewAppLinkResolver.h \
+  /Users/yash/Desktop/Java/June/RNFB/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h
